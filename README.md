@@ -1,16 +1,31 @@
-### Hi there 👋
+<p align="center">
 
-<!--
-**Iannes/iannes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h3 align="center">Hi there 👋</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p align="center">
+    I’m Yannis. I currently work at Vistaprint as a Senior Software Engineer.
+    </p>
+<h3 align="center">  Technologies I use include: </h3>
+      <br />
+<p align="center">
+      React | TypeScript | Storybook
+      <br />
+      <br />
+      Gatsby | Next | Node
+      <br />
+      <br />  
+      AWS Serverless
+      <br />
+      <br />  
+      React Testing Library | Cypress
+      <br />
+    <br />
+    For more information about me, check out 
+  <a target="_blank" rel="noopener noreferrer"  href="https://www.yannisspyrou.com/"><strong>yannisspyrou.com »</strong></a>
+    <br />
+    <br />
+    <a href="https://www.yannisspyrou.com">Personal Website</a>
+    ·
+    <a href="https://www.linkedin.com/in/yannis-spyrou-8624ab25/">Linkedin Profile</a>
+  </p>
+</p>
