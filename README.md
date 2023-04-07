@@ -3,7 +3,7 @@
   <h3 align="center">Hi there 👋</h3>
 
   <p align="center">
-    I’m Yannis. I currently work at Vistaprint as a Senior Software Engineer.
+    I’m Yannis. I currently work at Picsart as a Senior Frontend Engineer.
     </p>
 <h3 align="center">  Technologies I use include: </h3>
       <br />
@@ -11,13 +11,13 @@
       React | TypeScript | Storybook
       <br />
       <br />
-      Gatsby | Next | Node
+      Next | Node
       <br />
       <br />  
       AWS Serverless
       <br />
       <br />  
-      React Testing Library | Cypress
+      React Testing Library | Jest |  Cypress
       <br />
     <br />
     For more information about me, check out 
